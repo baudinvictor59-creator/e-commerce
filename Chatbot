@@ -1,0 +1,6 @@
+// Chatbot placeholder — on cliquera pour l'ouvrir plus tard
+document.getElementById("chatbot").innerText = "Support IA 💬";
+
+document.getElementById("chatbot").addEventListener("click", function() {
+  alert("Chatbot IA à intégrer ici !");
+});
